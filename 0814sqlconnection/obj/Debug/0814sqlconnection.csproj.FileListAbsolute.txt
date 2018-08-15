@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\0814sqlconnection.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\_0814sqlconnection.Form1.resources
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\_0814sqlconnection.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\0814sqlconnection.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\0814sqlconnection.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\bin\Debug\0814sqlconnection.exe.config
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\bin\Debug\0814sqlconnection.exe
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\bin\Debug\0814sqlconnection.pdb
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\0814sqlconnection.exe
+C:\Users\Cyberadmin\Desktop\C # programming\0814sqlconnection\0814sqlconnection\obj\Debug\0814sqlconnection.pdb
